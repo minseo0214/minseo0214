@@ -1,8 +1,26 @@
 ## 안녕하세요
 
-<a href="https://minstudy.tistory.com" target="_blank">
-  <img alt="Static Badge" src="https://img.shields.io/badge/tistory-blue?logo=tistory&style=for-the-badge">
-</a>
+### Social
+[![Tistory](https://img.shields.io/badge/Tistory-blue?style=for-the-badge&logo=tistory&logoColor=white)](https://minstudy.tistory.com)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:mins.choi214@gmail.com)
+
+### Language
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### Library And Framework
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+
+### Cloud
+![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GoogleCloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+
 
 <!--
 ![Minseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseo0214&show_icons=true&theme=vue)
