@@ -1,8 +1,11 @@
-## Hi there 👋
+## 안녕하세요
 
-<a href="https://minstudy.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory?style=for-the-badge&logo=tistory&logoColor=FFFFFF"/></a>
-![Minseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseo0214&show_icons=true&theme=vue)
+<a href="https://minstudy.tistory.com" target="_blank">
+  <img alt="Static Badge" src="https://img.shields.io/badge/tistory-blue?logo=tistory&style=for-the-badge">
+</a>
+
 <!--
+![Minseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseo0214&show_icons=true&theme=vue)
 **minseo0214/minseo0214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
