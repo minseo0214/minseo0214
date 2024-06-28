@@ -1,8 +1,12 @@
 ## 안녕하세요
 
+### Social
 [![Tistory](https://img.shields.io/badge/Tistory-ed5207?style=for-the-badge&logo=tistory&logoColor=white)](https://minstudy.tistory.com)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:mins.choi214@gmail.com)
 
+***
+
+### Stack
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
